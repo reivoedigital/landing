@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>http://reivoe.com/</loc>
+  <loc>https://reivoe.com/</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/business</loc>
+  <loc>https://reivoe.com/business</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/developer</loc>
+  <loc>https://reivoe.com/developer</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/about</loc>
+  <loc>https://reivoe.com/about</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/careers</loc>
+  <loc>https://reivoe.com/careers</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/blog</loc>
+  <loc>https://reivoe.com/blog</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/faq</loc>
+  <loc>https://reivoe.com/faq</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/support</loc>
+  <loc>https://reivoe.com/support</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/privacy</loc>
+  <loc>https://reivoe.com/privacy</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/terms</loc>
+  <loc>https://reivoe.com/terms</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://reivoe.com/cookie</loc>
+  <loc>https://reivoe.com/cookie</loc>
   <changefreq>daily</changefreq>
 </url>
 </urlset>
